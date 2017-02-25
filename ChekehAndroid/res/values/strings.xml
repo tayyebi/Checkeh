@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">چکه</string>
+    <string name="About">درباره</string>
+    <string name="Register">ثبت نام</string>
+    <string name="Login">ورود به سیستم</string>
+    <string name="Download">بارگذاری</string>
+    <string name="Firstname">نام</string>
+    <string name="Lastname">شهرت</string>
+    <string name="Password">رمز عبور</string>
+    <string name="Confirm">تائید</string>
+    <string name="Username">نام کاربری</string>
+    <string name="Ok">برو بریم</string>
+    <string name="PrevLists">فهرست های پیشین</string>
+    <string name="Save">ذخیره</string>
+    <string name="Loaded">بارگزاری شد</string>
+    <string name="NotLoaded">بارگزاری نشد</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Zero">0</string>
+    <string name="Details">جزئیات</string>
+    <string name="Title">عنوان</string>
+    <string name="Send">ارسال</string>
+	<string name="Delete">حذف</string>
+    <string name="Refresh">بارگزاری مجدد</string>
+	
+</resources>

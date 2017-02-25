@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Chekeh.Dialogue"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Chekeh"
+             mc:Ignorable="d" Height="auto" Width="auto" Loaded="UserControl_Loaded">
+
+    <Label x:Name="label_Text" Content="متن بارگذاری نشده است" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="5.94,3.168,0,0"/>
+
+</UserControl>

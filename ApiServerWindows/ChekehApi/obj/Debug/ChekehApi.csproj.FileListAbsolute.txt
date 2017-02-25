@@ -1,0 +1,138 @@
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\csc.exe
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\System.Collections.Immutable.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\vbc.exe
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\VBCSCompiler.exe
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\roslyn\VBCSCompiler.exe.config
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\ChekehApi.dll.config
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\ChekehApi.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\ChekehApi.pdb
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\Antlr3.Runtime.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\Microsoft.Web.Infrastructure.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\Newtonsoft.Json.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Net.Http.Formatting.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Helpers.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Http.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Http.WebHost.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Mvc.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Optimization.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Razor.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.WebPages.Deployment.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.WebPages.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.WebPages.Razor.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\WebGrease.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\Newtonsoft.Json.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Net.Http.Formatting.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Helpers.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Http.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Http.WebHost.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Mvc.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Optimization.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.Razor.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.WebPages.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.WebPages.Deployment.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\System.Web.WebPages.Razor.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\bin\Antlr3.Runtime.pdb
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\obj\Debug\ChekehApi.csprojResolveAssemblyReference.cache
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\obj\Debug\ChekehApi.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\ChekehApi\obj\Debug\ChekehApi.pdb
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\ChekehApi\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\ChekehApi\bin\ChekehApi.dll.config
+C:\inetpub\wwwroot\ChekehApi\bin\ChekehApi.dll
+C:\inetpub\wwwroot\ChekehApi\bin\ChekehApi.pdb
+C:\inetpub\wwwroot\ChekehApi\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\ChekehApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\ChekehApi\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\ChekehApi\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\ChekehApi\bin\WebGrease.dll
+C:\inetpub\wwwroot\ChekehApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\ChekehApi\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\ChekehApi\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\ChekehApi\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\ChekehApi\obj\Debug\ChekehApi.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\ChekehApi\obj\Debug\ChekehApi.dll
+C:\inetpub\wwwroot\ChekehApi\obj\Debug\ChekehApi.pdb
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\csc.exe
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\System.Collections.Immutable.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\vbc.exe
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\VBCSCompiler.exe
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\roslyn\VBCSCompiler.exe.config
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\ChekehApi.dll.config
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\ChekehApi.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\ChekehApi.pdb
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\Antlr3.Runtime.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\Microsoft.Web.Infrastructure.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\Newtonsoft.Json.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Net.Http.Formatting.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Helpers.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Http.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Http.WebHost.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Mvc.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Optimization.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Razor.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.WebPages.Deployment.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.WebPages.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.WebPages.Razor.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\WebGrease.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\Newtonsoft.Json.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Net.Http.Formatting.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Helpers.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Http.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Http.WebHost.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Mvc.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Optimization.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.Razor.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.WebPages.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.WebPages.Deployment.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\System.Web.WebPages.Razor.xml
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\bin\Antlr3.Runtime.pdb
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\obj\Debug\ChekehApi.csprojResolveAssemblyReference.cache
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\obj\Debug\ChekehApi.dll
+D:\World Skill\keshvari\ORDOO\Project12 - Chekeh\ApiServerWindows\ChekehApi\obj\Debug\ChekehApi.pdb

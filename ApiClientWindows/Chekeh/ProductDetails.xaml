@@ -1,0 +1,24 @@
+﻿<Window x:Class="Chekeh.ProductDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chekeh"
+        mc:Ignorable="d"
+        FlowDirection="RightToLeft"
+        WindowStartupLocation="CenterScreen" Title="جزئیات محصول" Height="300" Width="300" Icon="favicon.ico" ShowInTaskbar="False" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="button_Choose" Content="انتخاب تصویر" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="138" Click="button_Choose_Click"/>
+        <Button x:Name="button_Submit" Content="ارسال" HorizontalAlignment="Right" Margin="0,239,10,0" VerticalAlignment="Top" Width="75" Click="button_Submit_Click"/>
+        
+        <Label x:Name="label_Name" Content="عنوان:" HorizontalAlignment="Right" Margin="0,44,241,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Description" Content="جزئیات:" HorizontalAlignment="Right" Margin="0,75,236,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Group" Content="گروه:" HorizontalAlignment="Right" Margin="0,202,247,0" VerticalAlignment="Top"/>
+        
+        <TextBox x:Name="textbox_Name" HorizontalAlignment="Left" Height="23" Margin="77,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205"/>
+        <TextBox x:Name="textbox_Description" HorizontalAlignment="Left" AcceptsReturn="True" Height="114" Margin="77,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="205"/>
+        
+        <ComboBox x:Name="comboBox_Group" HorizontalAlignment="Left" Margin="77,202,0,0" VerticalAlignment="Top" Width="138"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,88 @@
+﻿<Window x:Class="Chekeh.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chekeh"
+        mc:Ignorable="d"
+        Title="چکه!" Height="500" Width="700" WindowStartupLocation="CenterScreen" Closed="Window_Closed" Loaded="Window_Loaded" FlowDirection="RightToLeft" Icon="favicon.ico">
+    <Grid>
+        <TabControl x:Name="tabControl" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10">
+            <TabItem x:Name="Feedback" Header="بازخورد">
+                <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                    <Label x:Name="label_Status" Content="وضعیت" HorizontalAlignment="Stretch" Margin="10,10,10,0" VerticalAlignment="Top"/>
+                    <local:ChatUserControl x:Name="thisChat" HorizontalAlignment="Stretch" Margin="10,41,0,0" VerticalAlignment="Stretch"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Profile" Header="مشخصات" GotFocus="Profile_GotFocus">
+                <Grid>
+                    <Label x:Name="label_Username" Content="نام کاربری" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,8,0,0"/>
+                    <Label x:Name="label_Password" Content="کلمه عبور" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label_ConfirmPass" Content="تکرار کلمه عبور" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label_Name" Content="نام" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label_LastName" Content="نام خانوادگی" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label_NationalCode" Content="کد ملی" HorizontalAlignment="Left" Margin="10,162,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label_PostalCode1" Content="کد پستی" HorizontalAlignment="Left" Margin="10,193,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label_PhoneNumber" Content="تلفن" HorizontalAlignment="Left" Margin="10,224,0,0" VerticalAlignment="Top"/>
+                    <Label x:Name="label_Address1" Content="آدرس" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="textbox_Username" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="104,13,0,0"/>
+                    <TextBox x:Name="textbox_FirstName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="104,105,0,0"/>
+                    <TextBox x:Name="textbox_LastName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="104,136,0,0"/>
+                    <TextBox x:Name="textbox_NationalCode" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="104,167,0,0"/>
+                    <TextBox x:Name="textbox_PostalCode1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="104,198,0,0"/>
+                    <TextBox x:Name="textbox_PhoneNumber" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="104,229,0,0"/>
+                    <TextBox x:Name="textbox_Address1" AcceptsReturn="True" HorizontalAlignment="Left" Height="153" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="104,258,0,0"/>
+                    <PasswordBox x:Name="textbox_Password" HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="120" Margin="104,43,0,0"/>
+                    <PasswordBox x:Name="textbox_ConfirmPass" HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="120" Margin="104,74,0,0"/>
+                    <Image x:Name="Image_Profile" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Margin="272,88,0,0" Stretch="UniformToFill"/>
+                    <Button x:Name="button_Image" Content="تصویر" HorizontalAlignment="Left" Margin="272,12,0,0" VerticalAlignment="Top" Width="100" Click="button_Image_Click"/>
+                    <Button x:Name="button_Delete" Content="حذف تصویر" HorizontalAlignment="Left" Margin="272,37,0,0" VerticalAlignment="Top" Width="100" Click="button_Delete_Click"/>
+                    <Button x:Name="button_Update" Content="ثبت اطلاعات" HorizontalAlignment="Left" VerticalAlignment="Top" Width="178" Margin="229,198,0,0" Click="button_Update_Click" />
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Store" Header="فروشگاه" IsEnabled="False" GotFocus="Store_GotFocus">
+                <Grid>
+                    <Label x:Name="label_Store" Content="نام:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+                    <TextBox x:Name="textbox_Store" HorizontalAlignment="Left" VerticalAlignment="Top" Width="306" Height="23" Margin="69,13,0,0" TextWrapping="Wrap"/>
+                    <Label x:Name="label_City" Content="شهر:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,41,0,0"/>
+                    <ComboBox x:Name="comboBox_City" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" Margin="69,44,0,0"  />
+                    <Label x:Name="label_PostalCode2" Content="کد پستی:" HorizontalAlignment="Left" Margin="194,41,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="textBox_PostalCode2" HorizontalAlignment="Left" Height="23" Margin="255,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Label x:Name="label_Address2" Content="آدرس:" HorizontalAlignment="Left" Margin="396,41,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="textbox_Address2" HorizontalAlignment="Left" Height="23" Margin="441,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Button x:Name="button_Store" Content="ثبت" HorizontalAlignment="Left" Margin="581,44,0,0" VerticalAlignment="Top" Width="75" Click="button_Store_Click"/>
+
+                    <ScrollViewer Margin="0,72,0,0">
+                        <Grid>
+                            <StackPanel  x:Name="storesList"></StackPanel>
+                        </Grid>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Product" Header="محصول" IsEnabled="False" GotFocus="Product_GotFocus">
+                <Grid>
+                    <Label Content="انتخاب فروشگاه" Height="auto" HorizontalAlignment="Left" Width="100" Margin="0,10,0,0" />
+                    <ComboBox x:Name="comboBox_Store1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" Margin="115,10,0,0" SelectionChanged="comboBox_Store1_SelectionChanged">
+                    </ComboBox>
+                    <ScrollViewer HorizontalAlignment="Stretch" Height="374" Margin="0,42,0,0" VerticalAlignment="Stretch">
+                        <Grid  VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                            <StackPanel x:Name="ProductsList">
+                                
+                            </StackPanel>
+                        </Grid>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="Partner" Header="مشتری" IsEnabled="False" GotFocus="Partner_GotFocus">
+                <Grid>
+                    <Label Content="انتخاب فروشگاه" Height="auto" HorizontalAlignment="Left" Width="100" Margin="0,10,0,0" />
+                    <ComboBox x:Name="comboBox_Store2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="300" Margin="115,10,0,0">
+                    </ComboBox>
+                    <ScrollViewer HorizontalAlignment="Stretch" Height="374" Margin="0,42,0,0" VerticalAlignment="Stretch">
+                        <Grid x:Name="CustomersList" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+                    </ScrollViewer>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rexaTB.chekehandroid.Activity_Main" >
+
+    <group android:id="@+id/group_UserDetails" >
+        <item
+            android:id="@+id/item_UserRegister"
+            android:title="@string/Register">
+        </item>
+        <item
+            android:id="@+id/item_UserLogin"
+            android:title="@string/Login">
+        </item>
+    </group>
+    <group android:id="@+id/product" >
+        <item
+            android:id="@+id/item_PrevLists"
+            android:title="@string/PrevLists">
+        </item>
+    </group>
+	<group android:id="@+id/App">
+	    <item android:id="@+id/item_About" android:title="@string/About"></item>
+	</group>
+</menu>
