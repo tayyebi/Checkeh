@@ -2,7 +2,7 @@ RESTful
 <br/>
 Online 
 <br/>
-tore and shopping system
+store and shopping system
 <br/>
 Windows + Android
 <br/>
